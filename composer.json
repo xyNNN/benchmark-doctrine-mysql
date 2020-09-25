@@ -1,0 +1,17 @@
+{
+    "name": "philipp.braeutigam/benchmark",
+    "require": {
+        "doctrine/orm": "^2.7"
+    },
+    "autoload": {
+        "classmap": [
+            "Entity/"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Philipp Bräutigam",
+            "email": "mail@philipp-braeutigam.de"
+        }
+    ]
+}
